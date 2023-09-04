@@ -1,1 +1,1 @@
-# test_django
+# Project description
